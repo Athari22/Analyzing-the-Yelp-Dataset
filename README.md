@@ -6,5 +6,5 @@ You will be asked a series of questions regarding the data to help you profile a
 
 Naturally, the questions will require you to write a variety of SQL statements. The reading in this lesson entitled, "Yelp Data Set SQL Lookup," will allow you to run all of the queries you need to against the Yelp Data Set below. Also, be sure to check out the Yelp Dataset ER Diagram and instructions below for more detailed information on the dataset and how to complete the assignment.![im](https://github.com/Athari22/Analyzing-the-Yelp-Dataset/blob/main/hOlYbrgyEeeTsRKxhJ5OZg_517578844a2fd129650492eda3186cd1_YelpERDiagram.png)
 
-This project is part of Learn SQL Basics for Data Science Specialization 
-[cours](https://www.coursera.org/specializations/learn-sql-basics-data-science?)
+This project is part of [Learn SQL Basics for Data Science Specialization]
+(https://www.coursera.org/specializations/learn-sql-basics-data-science?)
